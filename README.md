@@ -1,6 +1,11 @@
-# home_controller
+# home_controler
 
 This is planned to controll my ikea tradfri lights and musik from onkyo receiver plus all the other stuff I built (water the plants, make photos, ...)
+
+So far:
+* button for play/pause and on/off (long press)
+* led for power
+* rfid reader for to play file on rear usb 
 
 Planned hardware features:
 * RFID/nfc to start specific playlists
