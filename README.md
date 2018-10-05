@@ -5,7 +5,7 @@ This is planned to controll my ikea tradfri lights and musik from onkyo receiver
 So far:
 * button for play/pause and on/off (long press)
 * led for power
-* rfid reader for to play file on rear usb 
+* rfid reader for to play file on rear usb (first file in up to two levels of sub folder)
 
 Planned hardware features:
 * RFID/nfc to start specific playlists
